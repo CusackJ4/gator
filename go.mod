@@ -1,4 +1,4 @@
-module github.com/cusackj4/rssAggregator
+module github.com/cusackj4/gator
 
 go 1.25.7
 
