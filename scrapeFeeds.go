@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/cusackj4/blog_aggregator/internal/database"
+	"github.com/cusackj4/rssAggregator/internal/database"
 	"github.com/google/uuid"
 	"github.com/lib/pq"
 )

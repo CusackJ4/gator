@@ -1,4 +1,4 @@
-module github.com/cusackj4/blog_aggregator
+module github.com/cusackj4/rssAggregator
 
 go 1.25.7
 
