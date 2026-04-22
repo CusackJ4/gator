@@ -6,8 +6,8 @@ import (
 
 	"database/sql"
 
-	"github.com/cusackj4/blog_aggregator/internal/config"
-	"github.com/cusackj4/blog_aggregator/internal/database"
+	"github.com/cusackj4/rssAggregator/internal/config"
+	"github.com/cusackj4/rssAggregator/internal/database"
 
 	_ "github.com/lib/pq"
 )

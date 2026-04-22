@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	"github.com/cusackj4/blog_aggregator/internal/database"
+	"github.com/cusackj4/rssAggregator/internal/database"
 )
 
 func middlewareFunc(handler func(s *state, cmd command, user database.User) error) func(s *state, cmd command) error {
