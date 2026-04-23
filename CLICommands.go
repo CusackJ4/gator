@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/CusackJ4/gator/internal/config"
-	"github.com/CusackJ4/gator/internal/database"
+	"github.com/cusackj4/gator/internal/config"
+	"github.com/cusackj4/gator/internal/database"
 	"github.com/google/uuid"
 )
 

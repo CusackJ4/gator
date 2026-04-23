@@ -5,7 +5,7 @@ A simple RSS retriever
 User must have Postgres and Go installed.
 
 ## Installation
-go install github.com/CusackJ4/rssAggregator
+go install github.com/cusackj4/gator
 
 
 
