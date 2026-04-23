@@ -1,4 +1,4 @@
-module github.com/cusackj4/gator
+module github.com/CusackJ4/gator
 
 go 1.25.7
 
